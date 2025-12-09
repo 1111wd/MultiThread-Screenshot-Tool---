@@ -3,10 +3,12 @@
 
 1. 克隆项目
 git clone https://github.com/your-username/WebScreenshot-Pro.git
+
 cd WebScreenshot-Pro
 
 2. 安装依赖
 pip install playwright tqdm
+
 playwright install chromium
 
 3.准备url列表
