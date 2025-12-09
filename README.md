@@ -3,9 +3,9 @@
 
 1. 克隆项目
 
-git clone https://github.com/your-username/WebScreenshot-Pro.git
+git clone https://github.com/your-username/MultiThread-Screenshot.git
 
-cd WebScreenshot-Pro
+cd MultiThread-Screenshot
 
 2. 安装依赖
 
