@@ -6,7 +6,7 @@
 
 git clone https://github.com/your-username/MultiThread-Screenshot.git
 
-cd MultiThread-Screenshot
+cd MultiThread-Screenshot-main
 
 2. 安装依赖
 
